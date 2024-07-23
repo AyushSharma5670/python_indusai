@@ -5,7 +5,7 @@ Description: A game where the computer randomly selects a number and the user ha
 2. [To-Do List Application](https://github.com/AyushSharma5670/python_indusai/blob/main/To-Do%20List%20Application.py)
 Description: A simple CLI-based to-do list manager where users can add, view, and delete tasks.
 
-3. Weather API Fetcher
+3. [Weather API Fetcher](https://github.com/AyushSharma5670/python_indusai/blob/main/Weather%20API%20Fetcher.py)
 Description: A program that fetches and displays the current weather of a specified location using an API.
 
 4. Basic Web Scraper
