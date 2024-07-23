@@ -11,7 +11,7 @@ Description: A program that fetches and displays the current weather of a specif
 4. [Basic Web Scraper](https://github.com/AyushSharma5670/python_indusai/blob/main/Basic%20Web%20Scraper.py)
 Description: A program that extracts data from a given website and displays the information in a readable format.
 
-5. Text-Based Adventure Game
+5. [Text-Based Adventure Game](https://github.com/AyushSharma5670/python_indusai/blob/main/Text-Based%20Adventure%20Game.py)
 Description: An interactive game where players navigate through a story by making choices at each step.
 
 6. Simple Personal Budget Tracker
