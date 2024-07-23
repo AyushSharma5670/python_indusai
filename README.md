@@ -14,7 +14,7 @@ Description: A program that extracts data from a given website and displays the 
 5. [Text-Based Adventure Game](https://github.com/AyushSharma5670/python_indusai/blob/main/Text-Based%20Adventure%20Game.py)
 Description: An interactive game where players navigate through a story by making choices at each step.
 
-6. Simple Personal Budget Tracker
+6. [Simple Personal Budget Tracker](https://github.com/AyushSharma5670/python_indusai/blob/main/Simple%20Personal%20Budget%20Tracker.py)
 Description: A program to help users track their income and expenses, providing a summary of their financial status.
 
 7. Contact Book
