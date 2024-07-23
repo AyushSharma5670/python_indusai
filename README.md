@@ -2,7 +2,7 @@
 1. [Guess the Number Game](https://github.com/AyushSharma5670/python_indusai/blob/main/Guess%20the%20Number%20Game.py)
 Description: A game where the computer randomly selects a number and the user has to guess it with hints provided.
 
-2. To-Do List Application
+2. [To-Do List Application](https://github.com/AyushSharma5670/python_indusai/blob/main/To-Do%20List%20Application.py)
 Description: A simple CLI-based to-do list manager where users can add, view, and delete tasks.
 
 3. Weather API Fetcher
