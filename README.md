@@ -1,5 +1,5 @@
 # python_indusai
-1. [Guess the Number Game](https://github.com/AyushSharma5670/ayush-python/blob/main/eg1.py)
+1. [Guess the Number Game](https://github.com/AyushSharma5670/python_indusai/blob/main/Guess%20the%20Number%20Game.py)
 Description: A game where the computer randomly selects a number and the user has to guess it with hints provided.
 
 2. To-Do List Application
