@@ -8,7 +8,7 @@ Description: A simple CLI-based to-do list manager where users can add, view, an
 3. [Weather API Fetcher](https://github.com/AyushSharma5670/python_indusai/blob/main/Weather%20API%20Fetcher.py)
 Description: A program that fetches and displays the current weather of a specified location using an API.
 
-4. Basic Web Scraper
+4. [Basic Web Scraper](https://github.com/AyushSharma5670/python_indusai/blob/main/Basic%20Web%20Scraper.py)
 Description: A program that extracts data from a given website and displays the information in a readable format.
 
 5. Text-Based Adventure Game
